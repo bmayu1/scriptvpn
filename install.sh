@@ -2,10 +2,8 @@
 
 # */
 # Credit Autoscript AIO
-# [ @Rerechan02 | Owner     ]
-# [ @fn_project | channel   ]
-# [ @funnyvpn   | Base Code ]
-# [ @praiman99  | Base Menu ]
+# [ @VnzVM | Owner     ]
+# [ @VnzVPN | channel   ]
 # ===========================
 # Tools Usage:
 #             - Termux, MT Manager, Acode
