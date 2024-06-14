@@ -136,11 +136,22 @@ apt install dropbear -y
 rm /etc/default/dropbear
 rm /etc/issue.net
 cat> /etc/issue.net << END
-</strong> <p style="text-align:center"><b> <br><font color="#00FFE2"<br>┏━━━━━━━━━━━━━━━┓<br> VNZVPN STORE<br>┗━━━━━━━━━━━━━━━┛<br></font><br><font color="#00FF00"></strong> <p style="text-align:center"><b> <br><font color="#00FFE2">क═══════क⊹⊱✫⊰⊹क═══════क</font><br><font color='#FFFF00'><b> ★ [ ༆Hʸᵖᵉʳ᭄W̺͆E̺͆L̺͆C̺͆O̺͆M̺͆E̺͆
-T̺͆O̺͆ M̺͆Y̺͆ S̺͆E̺͆R̺͆V̺͆E̺͆R̺͆ V͇̿I͇̿P͇̿ ] ★ </b></font><br><font color="#FFF00">VnzVPN</font><br> <font color="#FF00FF">❖Ƭʜᴇ No DDOS</font><br> <font color="#FF0000">❖Ƭʜᴇ No Torrent</font><br> <font color="#FFB1C2">❖Ƭʜᴇ No Bokep </font><br> <font color="#FFFFFF">❖Ƭʜᴇ No Hacking</font><br>
-<font color="#00FF00">❖Ƭʜᴇ No Mining</font><br> <font color="#00FF00">➳ᴹᴿ᭄ Oder / Trial :
-https://wa.me/6287763369249 </font><br>
-<font color="#00FFE2">क═══════क⊹⊱✫⊰⊹क═══════क</font><br></font><br><font color="FFFF00">https://t.me/vnzvm</font><br>
+<p style="text-align:center">
+<font color="#00FF00"><b> WELCOME TO VnzVPN </b></font><br>
+<font color='#FF0059'>▬</font><font color='#F1006F'>▬</font><font color='#E30085'>▬</font><font color='#D6009B'>▬</font><font color='#C800B1'>▬</font><font color='#BB00C7'>ஜ</font><font color='#AD00DD'>۩</font><font color='#9F00F3'>۞</font><font color='#9F00F3'>۩</font><font color='#AD00DD'>ஜ</font><font color='#BB00C7'>▬</font><font color='#C800B1'>▬</font><font color='#D6009B'>▬</font><font color='#E30085'>▬</font><font color='#F1006F'>▬</font><br>
+<font color="#F5FE00"><b> THANKS YOU FOR USING OUR SERVICE </b></font><br>
+<font color="#FFA500"><b> PLEASE FOLLOW THE SERVER RULES </b></font><br>
+<font color='red'>!!! TERM OF SERVICE !!!</font><br>
+<font color='#20CDCC'><b>         NO SPAM           </b></font><br>
+<font color="#FF00FF"><b> NO CRIMINAL CYBER </b></font><br>
+<font color="#FF1493"><b> NO TORRENT FILE </b></font><br>
+<font color='#6495ED'><b>         NO DDOS           </b></font><br>
+<font color='#BC8F8F'><b>  NO HACKING AND CARDING   </b></font><br>
+<font color="#E51369"><b>    MAX LOGIN 1 DEVICE     </b></font><br>
+<font color='red'><b> IF YOU VIOLATE YOUR ACCOUNT WE WILL BE BANNED </b></font><br>
+<font color="#40E0D0"><b> Join Telegram Channel: https://t.me/VnzVPN</br></font><br>
+<font color="#6A5ACD"><b> Buy VPN Premium Contact https://t.me/VnzVM</br></font><br>
+<font color='#FF0059'>▬</font><font color='#F1006F'>▬</font><font color='#E30085'>▬</font><font color='#D6009B'>▬</font><font color='#C800B1'>▬</font><font color='#BB00C7'>ஜ</font><font color='#AD00DD'>۩</font><font color='#9F00F3'>۞</font><font color='#9F00F3'>۩</font><font color='#AD00DD'>ஜ</font><font color='#BB00C7'>▬</font><font color='#C800B1'>▬</font><font color='#D6009B'>▬</font><font color='#E30085'>▬</font><font color='#F1006F'>▬</font>
 END
 cat>  /etc/default/dropbear << END
 # disabled because OpenSSH is installed
