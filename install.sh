@@ -520,7 +520,7 @@ echo "-------------------------------------------"
 HYST_SERVER_IP=$(curl ifconfig.me)
 DOMAIN=$domain
 while true; do
-OBFS="VnzVPN"
+OBFS="VnzVPNNIHH"
 if validate_length "$OBFS" 10; then
 break # Break the loop if input is valid
 fi
