@@ -1,2 +1,2 @@
 # scriptvpn
-Modded By Vnz
+Modded By BumiayuvpN
