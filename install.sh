@@ -141,7 +141,7 @@ rm /etc/default/dropbear
 rm /etc/issue.net
 cat> /etc/issue.net << END
 <p style="text-align:center">
-<font color="#00FF00"><b> WELCOME TO VnzVPN </b></font><br>
+<font color="#00FF00"><b> WELCOME TO BumiayuvpN </b></font><br>
 <font color='#FF0059'>▬</font><font color='#F1006F'>▬</font><font color='#E30085'>▬</font><font color='#D6009B'>▬</font><font color='#C800B1'>▬</font><font color='#BB00C7'>ஜ</font><font color='#AD00DD'>۩</font><font color='#9F00F3'>۞</font><font color='#9F00F3'>۩</font><font color='#AD00DD'>ஜ</font><font color='#BB00C7'>▬</font><font color='#C800B1'>▬</font><font color='#D6009B'>▬</font><font color='#E30085'>▬</font><font color='#F1006F'>▬</font><br>
 <font color="#F5FE00"><b> THANKS YOU FOR USING OUR SERVICE </b></font><br>
 <font color="#FFA500"><b> PLEASE FOLLOW THE SERVER RULES </b></font><br>
@@ -153,8 +153,8 @@ cat> /etc/issue.net << END
 <font color='#BC8F8F'><b>  NO HACKING AND CARDING   </b></font><br>
 <font color="#E51369"><b>    MAX LOGIN 1 DEVICE     </b></font><br>
 <font color='red'><b> IF YOU VIOLATE YOUR ACCOUNT WE WILL BE BANNED </b></font><br>
-<font color="#40E0D0"><b> Join Telegram Channel: https://t.me/VnzVPN</br></font><br>
-<font color="#6A5ACD"><b> Buy VPN Premium Contact https://t.me/VnzVM</br></font><br>
+<font color="#40E0D0"><b> Join Telegram Channel: https://t.me/vpnbumiayu</br></font><br>
+<font color="#6A5ACD"><b> Buy VPN Premium Contact https://t.me/bumiayuvpn</br></font><br>
 <font color='#FF0059'>▬</font><font color='#F1006F'>▬</font><font color='#E30085'>▬</font><font color='#D6009B'>▬</font><font color='#C800B1'>▬</font><font color='#BB00C7'>ஜ</font><font color='#AD00DD'>۩</font><font color='#9F00F3'>۞</font><font color='#9F00F3'>۩</font><font color='#AD00DD'>ஜ</font><font color='#BB00C7'>▬</font><font color='#C800B1'>▬</font><font color='#D6009B'>▬</font><font color='#E30085'>▬</font><font color='#F1006F'>▬</font>
 END
 cat>  /etc/default/dropbear << END
