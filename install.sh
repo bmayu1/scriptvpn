@@ -2,8 +2,8 @@
 
 # */
 # Credit Autoscript AIO
-# [ @VnzVM | Owner     ]
-# [ @VnzVPN | channel   ]
+# [ @bumiayuvpn | Owner     ]
+# [ @vpnbumiayu | channel   ]
 # ===========================
 # Tools Usage:
 #             - Termux, MT Manager, Acode
